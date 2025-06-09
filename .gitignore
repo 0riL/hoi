@@ -1,0 +1,4 @@
+node_modules
+checked_usernames.txt
+available_usernames.txt
+.env
